@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/313.0.0.35.119;FBBV/282616749;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Airtel;FBMF/LOGIC;FBBD/LOGIC;FBPN/com.facebook.orca;FBDV/LOGIC L61;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/249.0.0.47.118;FBBV/186228239;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Reliance Communications;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-T507;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
