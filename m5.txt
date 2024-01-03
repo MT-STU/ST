@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/200.0.0.50.194;FBBV/133691590;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/MTNL;FBMF/Sharp;FBBD/Aquos;FBPN/com.facebook.orca;FBDV/A102SH;FBSV/14;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/200.0.0.50.194;FBBV/133691590;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/Vodafone Idea;FBMF/Acer;FBBD/Acer;FBPN/com.facebook.orca;FBDV/Acer Chromebook 14 (CB3-431);FBSV/9;nullFBCA/arm64-v8a:;]
