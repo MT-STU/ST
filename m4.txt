@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/277.0.0.41.126;FBBV/227128646;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/airtel;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.orca;FBDV/motorola edge 20;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/265.0.0.61.103;FBBV/208173431;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Airtel;FBMF/Schok;FBBD/Schok;FBPN/com.facebook.orca;FBDV/Schok Volt SV55;FBSV/4;nullFBCA/armeabi-v7a:armeabi;]
