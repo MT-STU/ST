@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/356.0.0.28.112;FBBV/311215741;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/BSNL Mobile;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.orca;FBDV/ZTE Blade A5 2020RU;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/187.0.0.43.81;FBBV/122388401;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/vivo 1935;FBSV/11;nullFBCA/arm64-v8a:;]
