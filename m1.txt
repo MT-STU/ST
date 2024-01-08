@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/336.0.0.13.142;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/327992372;FBCR/IND Airtel;FBMF/OPPO;FBBD/OPPO;FBDV/CPH2455;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1466};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/136.0.0.60.47;FBPN/com.facebook.orca;FBLC/en_US;FBBV/213005052;FBCR/CYTAMOBILE-VODAFONE;FBMF/samsung;FBBD/samsung;FBDV/S5230 Star;FBSV/10;FBCA/armeabi v7a:armeabi;FBDM/{density=2.0,width=720,height=1446};]
