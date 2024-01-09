@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/325.0.0.36.170;FBBV/285022375;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Aircel;FBMF/ONN;FBBD/ONN;FBPN/com.facebook.orca;FBDV/100071483;FBSV/7;nullFBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/249.0.0.47.118;FBBV/186228239;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/BSNL Mobile;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.orca;FBDV/trogdor;FBSV/9;nullFBCA/arm64-v8a:;]
