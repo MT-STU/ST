@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/326.0.0.27488;FBBV/309739593;FBDM/FBDM/{density=2.3,width=2198,height=847};FBLC/bg_BG;FBRV/309739593;FBCR/Movitel;FBMF/OPPO;FBBD/CPH1959;FBPN/com.facebook.mlite;FBDV/CPH1959;FBSV/4;FBOP/11;FBBK/5;FBCA/arm64-v8a:x86:armeabi-v7a;]
+[FBAN/Orca-Android;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=1.75,width=720,height=1280};FBLC/es_LA;FBCR/Aritel;FBMF/ARCHOS;FBBD/ARCHOS;FBPN/com.facebook.orca;FBDV/Sense 50 DC;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
