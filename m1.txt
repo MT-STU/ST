@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/148.0.0.55.21;FBPN/com.facebook.orca;FBLC/en_US;FBBV/674133406;FBCR/MegaFon;FBMF/OPPO;FBBD/OPPO;FBDV/Reno5 5G;FBSV/10;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.1875,width=1080,height=2156};]
+[FBAN/Orca-Android;FBAV/309.0.0.45.119;FBBV/281818315;FBDM/{density=1.75,width=1080,height=1396};FBLC/en_US;FBCR/Aircel;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.orca;FBDV/ZTE_A7050;FBSV/10.0.0;FBCA/armeabi-v7a:armeabi;]
