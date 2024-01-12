@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/191.0.0.35.96;FBBV/125357973;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Robi;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/SM-G9730;FBSV/13.0.0;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/309.0.0.45.119;FBBV/281818315;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Banglalink;FBMF/Google;FBBD/google;FBPN/com.facebook.orca;FBDV/Pixel 7 Pro;FBSV/11.0;FBCA/arm64-v8a:;]
