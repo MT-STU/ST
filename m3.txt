@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/263.0.0.46.121;FBBV/205281664;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Tata Docomo;FBMF/VIVA;FBBD/VIVA;FBPN/com.facebook.orca;FBDV/VIVA_803G;FBSV/5.0.0;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/202.0.0.40.99;FBBV/135515094;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Jio 4G;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/I2127;FBSV/14.0.0;FBCA/armeabi-v7a:armeabi;]
