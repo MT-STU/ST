@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/320.0.0.34.118;FBBV/284016955;FBDM/{density=1.75,width=1080,height=1396};FBLC/en_US;FBCR/Rexon;FBMF/Lge;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-H870;FBSV/13;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/215.0.0.45.98;FBBV/148268798;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/TeleTalk;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/AFTTI43;FBSV/6.0;FBCA/arm64-v8a:;]
