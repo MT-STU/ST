@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/250.0.0.26.241;FBBV/187584912;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Reliance Communications;FBMF/SUNE;FBBD/SUNE;FBPN/com.facebook.katana;FBDV/SUNE_10_X;FBSV/4;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/235.0.0.38.118;FBBV/168314968;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Jio 4G;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N770F;FBSV/15;FBCA/armeabi-v7a:armeabi;]
