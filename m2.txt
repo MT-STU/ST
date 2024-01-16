@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/282.0.0.40.117;FBBV/236468732;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBRV/238430540;FBCR/Ufone;FBMF/HMD Global;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 6.1;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/304.0.0.39.118;FBBV/271126404;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Robi Axiata;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel 3 XL;FBSV/10.0;FBCA/arm64-v8a:;]
