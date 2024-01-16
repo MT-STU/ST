@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/336.0.0.20.117;FBBV/287214784;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/null;FBMF/SHARP;FBBD/DOCOMO;FBPN/com.facebook.katana;FBDV/AQUOS_TVE19A;FBSV/13.0;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/292.0.0.60.123;FBBV/250937654;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Robi;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g power (XT2041DL);FBSV/10.0;FBCA/armeabi-v7a:armeabi;]
