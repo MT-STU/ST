@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/304.0.0.39.118;FBBV/271126404;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Robi Axiata;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel 3 XL;FBSV/10.0;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/417.0.0.33.65;FBBV/442410873;FBDM/{density=1.75,width=1080,height=1396};FBLC/en_US;FBCR/Grameenphone;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SC-51C;FBSV/10.0;FBCA/armeabi-v7a:armeabi;]
