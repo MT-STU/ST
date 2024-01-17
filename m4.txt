@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/243.0.0.47.108;FBBV/178056619;FBDM/{density=2.75,width=1644,height=2358};FBLC/en_IE;FBCR/Unitel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y15;FBSV/9.0.0;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/162.0.0.45.94;FBBV/95632808;FBDM/{density=2.75,width=1359,height=2664};FBLC/fa_IR;FBCR/Our Telekom;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/MT2111;FBSV/8.0;FBCA/arm64-v8a:;]
