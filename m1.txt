@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/210.0.0.43.119;FBBV/143667885;FBDM/{density=2.75,width=1409,height=2467};FBLC/nl_BE;FBCR/LMT;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.orca;FBDV/DE2118;FBSV/5;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/219.0.0.42.114;FBBV/152362346;FBDM/{density=5.75,width=721,height=2043};FBLC/th_TH;FBCR/Natcom;FBMF/Acer;FBBD/acer;FBPN/com.facebook.orca;FBDV/Iconia Tab 10 A3-A30;FBSV/6.0;FBCA/armeabi-v7a:armeabi;]
