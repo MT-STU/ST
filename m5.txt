@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/223.0.0.47.120;FBBV/156649449;FBDM/{density=3.0,width=1290,height=2796};FBLC/mg_MG;FBCR/Kiribati WiFi;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/MHA-L29;FBSV/12.0.0;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/141.0.0.20.91;FBBV/71152838;FBDM/{density=3.75,width=689,height=2639};FBLC/lt_LT;FBCR/Cellcom;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 7;FBSV/7;FBCA/armeabi-v7a:armeabi;]
