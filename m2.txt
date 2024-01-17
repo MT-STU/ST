@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/417.0.0.33.65;FBBV/442410873;FBDM/{density=1.75,width=1080,height=1396};FBLC/en_US;FBCR/Grameenphone;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SC-51C;FBSV/10.0;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/202.0.0.40.99;FBBV/135515094;FBDM/{density=4.0,width=1391,height=2699};FBLC/hr_HR;FBCR/SK Telecom;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1931;FBSV/13;FBCA/armeabi-v7a:armeabi;]
