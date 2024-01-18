@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/163.0.0.36.91;FBBV/96405840;FBDM/{density=2.25,width=1595,height=2598};FBLC/en_US;FBCR/Omantel;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.orca;FBDV/moto g400;FBSV/9.0;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/148.0.0.45.62;FBBV/77861642;FBDM/{density=3.75,width=1784,height=2721};FBLC/en_US;FBCR/Celcom;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.orca;FBDV/CPH1613;FBSV/4.0.1;FBCA/arm64-v8a:;]
