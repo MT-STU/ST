@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/328.1.0.28.119;FBBV/285616312;FBDM/{density=2.625,width=1617,height=2879};FBLC/en_US;FBCR/Rogers;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO CE7j;FBSV/9.0;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/263.0.0.46.121;FBBV/205281664;FBDM/{density= 2.625,width=633,height=2050};FBLC/en_US;FBCR/Cellcard;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g500;FBSV/6.0;FBCA/arm64-v8a:;]
