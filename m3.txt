@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/420.0.0.32.61;FBBV/443010639;FBDM/{density=4.75,width=843,height=2426};FBLC/en_GB;FBCR/MPT;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Note 5 Pro;FBSV/8;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/255.0.0.33.121;FBBV/195354805;FBDM/{density=2.0,width=1085,height=2321};FBLC/en_US;FBCR/Timor Telecom;FBMF/Allview;FBBD/allview;FBPN/com.facebook.katana;FBDV/Soul X7 Pro;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;]
