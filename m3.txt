@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/255.0.0.33.121;FBBV/195354805;FBDM/{density=2.0,width=1085,height=2321};FBLC/en_US;FBCR/Timor Telecom;FBMF/Allview;FBBD/allview;FBPN/com.facebook.katana;FBDV/Soul X7 Pro;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/196.0.0.20;FBBV/594326928;FBDM/{density=2.5,width=1280,height=1440};FBLC/en_PK;FBRV/517368763;FBCR/UMS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N971N;FBSV/10.3.1;nullFBCA/armeabi-v7a:armeabi;]
