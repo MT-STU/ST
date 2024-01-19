@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/150.0.0.38.138;FBBV/80156282;FBDM/{density= 2.625,width=1692,height=2506};FBLC/en_US;FBCR/POST Luxembourg;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.orca;FBDV/Mate 40 Pro;FBSV/4.0.2;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/196.0.0.25;FBBV/833645503;FBDM/{density=2.0,width=1080,height=1440};FBLC/fr_FR;FBRV/445214032;FBCR/IND-JIO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N981B;FBSV/8.1.1;nullFBCA/armeabi-v7a:armeabi;]
