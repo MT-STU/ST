@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/419.0.0.29.71;FBBV/442811621;FBDM/{density=1.5,width=800,height=800};FBLC/en_US;FBRV/391475071;FBCR/Comores Telecom;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1833;FBSV/12.9.3;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/42.0.0.27.114;FBBV/14063944;FBDM/{density=1.0,width=1200,height=800};FBLC/en_BD;FBCR/Smart Axiata;FBMF/Allview;FBBD/allview;FBPN/com.facebook.katana;FBDV/X5 Soul;FBSV/10.3.4;FBCA/armeabi-v7a:armeabi;]
