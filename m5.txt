@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/42.0.0.27.114;FBBV/14063944;FBDM/{density=1.0,width=1200,height=800};FBLC/en_BD;FBCR/Smart Axiata;FBMF/Allview;FBBD/allview;FBPN/com.facebook.katana;FBDV/X5 Soul;FBSV/10.3.4;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/78.0.0.16.67;FBBV/30529819;FBDM/{density=1.5,width=768,height=736};FBLC/en_US;FBRV/342297675;FBCR/A1;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-F916B;FBSV/13.4.4;nullFBCA/arm64-v8a:;]
