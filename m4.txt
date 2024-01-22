@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/367.0.0.24.107;FBBV/313412960;FBDM/{density=3.5,width=1440,height=1366};FBLC/en_BD;FBRV/278200486;FBCR/Bell;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Predator 8;FBSV/7.2.4;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/230.0.0.36.117;FBBV/162942669;FBDM/{density=1.0,width=1125,height=1024};FBLC/en_US;FBRV/258920807;FBCR/NTA;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y81;FBSV/8.9.1;nullFBCA/arm64-v8a:;]
