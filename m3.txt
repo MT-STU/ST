@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/196.0.0.32;FBBV/269037609;FBDM/{density=2.0,width=1280,height=1440};FBLC/en_IN;FBRV/424679440;FBCR/VIVO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-S908N;FBSV/10.4.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/196.0.0.88;FBBV/990147883;FBDM/{density=2.5,width=720,height=1920};FBLC/en_IN;FBRV/742397415;FBCR/airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Xplay6;FBSV/12.3.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]
