@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/125.0.0.23.80;FBBV/58971521;FBDM/{density=3.0,width=1125,height=1366};FBLC/en_US;FBCR/Ethio Telecom;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1823;FBSV/11.9.2;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/253.0.0.28.116;FBBV/193013915;FBDM/{density=2.5,width=800,height=1024};FBLC/en_US;FBRV/283419567;FB_FW/2;FBCR/Bakcell;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2020;FBSV/11.6.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
