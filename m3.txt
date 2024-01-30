@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/124.0.0.22.66;FBBV/58350869;FBDM/{density=4.0,width=768,height=812};FBLC/en_US;FBCR/CSTmovel;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/Mate X;FBSV/9.7.6;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/96.0.0.17.70;FBBV/40050084;FBDM/{density=4.0,width=1080,height=736};FBLC/en_US;FBCR/Telmob;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/LE2113;FBSV/8.8.3;FBCA/arm64-v8a:;]
