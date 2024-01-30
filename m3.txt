@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/88.0.0.22.76;FBBV/35266906;FBDM/{density=3.0,width=1125,height=812};FBLC/en_US;FBRV/323215630;FBCR/Natcom;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/EB2103;FBSV/12.8.4;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/45.0.0.23.146;FBBV/14636716;FBDM/{density=1.0,width=1080,height=800};FBLC/en_US;FBCR/Ethio Telecom;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1613;FBSV/9.5.7;FBCA/arm64-v8a:;]
